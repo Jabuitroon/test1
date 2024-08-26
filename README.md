@@ -1,2 +1,3 @@
-1.) Inicializando el repo
-![](https://github.com/Jabuitroon/test1/blob/main/img/1.PNG)
+Eliminando y recuperando archivos
+![](https://github.com/Jabuitroon/test1/blob/main/img/11 eliminando y recuperando un archivo.PNG)
+
